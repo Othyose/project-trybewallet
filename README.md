@@ -6,7 +6,7 @@ Neste projeto foi desenvolvida uma carteira de controle de gastos. Contando com 
   e visualizar os gastos convertidos para uma moeda expecífica.
 
 ## Habilidades
-Este projeto meu ajudou a desenvolver minhas skills em React utilizando Redux.
+Este projeto me ajudou a desenvolver minhas skills em React utilizando Redux.
   Foram utilizados 'reducers', 'actions' e 'dispatchers' através do Redux, e todos foram integrados ao React.
 
 ## Acessando o repositório:
